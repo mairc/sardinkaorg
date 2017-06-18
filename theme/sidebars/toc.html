@@ -1,0 +1,49 @@
+{% macro _toc_tree_inner(toc) -%}
+  <ol>
+    {% for toc_item in toc %}
+      <li><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
+      {{ _toc_tree_inner(toc_item.children) }}
+    {% endfor %}
+  </ol>
+{%- endmacro %}
+
+{% macro toc_tree(toc) -%}
+  {# This ignores H1s #}
+  {% for toc_item in toc %}
+    {{ _toc_tree_inner(toc_item.children) }}
+  {% endfor %}
+{%- endmacro %}
+
+{% if nav.homepage.url != "." %}
+<h3>Содержание</h3>
+{% endif %}
+
+<nav>
+{% if nav.homepage.url != "." %}
+  {{ toc_tree(page.toc) }}
+{% endif %}
+  {% if theme.extra_nav_links %}
+    <ul>
+        <li class="toctree-l1"><a href="/wiki/list/">ВИКИ</a></li>
+        <li class="toctree-l1"><a href="https://vk.com/slipperysardine">ГРУППА VK</a></li>
+        <li class="toctree-l1"><a href="https://bit.ly/sardinka-anketa">АНКЕТА</a></li>
+        <li class="toctree-l1"><a href="https://www.dropbox.com/request/3Bm5DMfKUcgGL8wR8gyV">ОТПРАВИТЬ ПЕРСОНАЖА</a></li>
+        <li class="toctree-l1"><a href="https://drive.google.com/open?id=0B34JLyvIKHCiQmdadzQ3ZzdneEE">GURPS-КНИГИ</a></li>
+        <li class="toctree-l1"><a href="https://www.dropbox.com/sh/hp3t087pbp6pzsr/AAC50lJku14QxiQ_fEVOZ7H-a?dl=0">GCS-БИБЛИОТЕКИ</a></li>
+        <li class="toctree-l1"><a href="https://sardinka.org/gcs/gcs-1/">GCS-ПОМОЩЬ</a></li>
+        <li class="toctree-l1"><a href="https://sardinka.org/ooc/links/#gurps-character-sheet">GCS-СКАЧАТЬ</a></li>
+        <li class="toctree-l1"><a href="https://vk.com/topic-98916594_32099212">УЧЁТНАЯ КНИГА</a></li>
+        <li class="toctree-l1"><a href="https://vk.com/topic-98916594_32102639">ЗАДАНИЯ</a></li>
+        <li class="toctree-l1"><a href="https://vk.com/topic-98916594_32262209">ОТЧЁТЫ</a></li>
+        <li class="toctree-l1"><a href="https://sardinka.org/cemetery/#grave-36">ДОМ ФАЛЬКЕ</a></li>
+        <li class="toctree-l1"><a href="https://sardinka.org/map/">КАРТА МИРА (beta)</a></li>
+        <li class="toctree-l1"><a href="ts3server://sardinka.org?port=9987">ЗАЙТИ В ТС</a></li>
+        <li class="toctree-l1"><a href="https://qiwi.me/sardinka">ПОМОЧЬ ПРОЕКТУ</a></li>
+      {% for text, uri in theme.extra_nav_links.items() %}
+        <li class="toctree-l1"><a href="{{ uri }}">{{ text }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</nav>
+
+

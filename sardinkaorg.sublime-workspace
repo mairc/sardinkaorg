@@ -1,0 +1,915 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"abu",
+				"about.html"
+			],
+			[
+				"Se",
+				"sans-serif"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"le",
+				"leaflet.js"
+			],
+			[
+				"gu",
+				"guildbook\t(guildbook.md)"
+			],
+			[
+				"contr",
+				"contract.md"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"Mar",
+				"margin-top"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"st",
+				"sticky"
+			],
+			[
+				"Marg",
+				"margin-left"
+			],
+			[
+				"sar",
+				"sardinka.org"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"wi",
+				"white"
+			],
+			[
+				"grave-20",
+				"grave-20"
+			],
+			[
+				"XV",
+				"XVII"
+			],
+			[
+				"Календ",
+				"Календарь"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"Sim",
+				"SimpleKivy\tclass"
+			],
+			[
+				"__",
+				"__main__〔variable〕"
+			],
+			[
+				"li",
+				"line_part_3"
+			],
+			[
+				"lin",
+				"line_part_2"
+			],
+			[
+				"ll",
+				"lline_part_1"
+			],
+			[
+				"line",
+				"line_part_2"
+			],
+			[
+				"line_",
+				"line_part_1"
+			],
+			[
+				"dice",
+				"dice_3"
+			],
+			[
+				"w",
+				"while\tWhile Loop"
+			],
+			[
+				"pr",
+				"pr_chen_cho"
+			],
+			[
+				"pr_",
+				"pr_porshen"
+			],
+			[
+				"sect",
+				"section*{title}\tlatex-document"
+			],
+			[
+				"chapter",
+				"chapter*{title}\tlatex-document"
+			],
+			[
+				"end",
+				"endcsname\ttex"
+			],
+			[
+				"normal",
+				"normalsize\tlatex-document"
+			],
+			[
+				"itm",
+				"items_list_6"
+			],
+			[
+				"item",
+				"items_list_6"
+			],
+			[
+				"A",
+				"A"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"di",
+				"dice_s"
+			],
+			[
+				"rol",
+				"result_of_roll"
+			],
+			[
+				"res",
+				"result_of_roll2"
+			],
+			[
+				"roll",
+				"roll_dice"
+			],
+			[
+				"subpar",
+				"subparagraph{title}\tlatex-document"
+			],
+			[
+				"column",
+				"columnwidth\tlatex-dev"
+			],
+			[
+				"parag",
+				"paragraph{title}\tlatex-document"
+			],
+			[
+				"usepa",
+				"usepackage{package}\tlatex-document"
+			],
+			[
+				"mu",
+				"multicolumn{cols}{pos}{text}\tlatex-document"
+			],
+			[
+				"fill",
+				"hlinefill\tlatex-document"
+			],
+			[
+				"usep",
+				"usepackage{package}\tlatex-document"
+			],
+			[
+				"part",
+				"part{title}\tlatex-document"
+			],
+			[
+				"par",
+				"part\tPart"
+			],
+			[
+				"subp",
+				"subparagraph{title}\tlatex-document"
+			],
+			[
+				"subs",
+				"subsection*{title}\tlatex-document"
+			],
+			[
+				"section",
+				"section{section name}\tclass-beamer"
+			],
+			[
+				"cha",
+				"chapter\tchapter"
+			],
+			[
+				"со",
+				"современных"
+			],
+			[
+				"про",
+				"происходят"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n\nvar cgen={\"data\":{\"childs\":[{\"type\":\"arr\",\"childs\":[\"Эрон\",\"Эррон\",\"Эйбл\",\"Эбнер\",\"Абрахам\",\"Адам\",\"Эдриан\",\"Алан\",\"Аллан\",\"Аллен\",\"Албан\",\"Алберт\",\"Олдас\",\"Александер\",\"Алфред\",\"Элвин\",\"Эмброуз\",\"Эмос\",\"Эндрю\",\"Энтони\",\"Гарри\",\"Арчибалд\",\"Арнолд\",\"Артур\",\"Эшер\",\"Огаст\",\"Огастес\",\"Огастин\",\"Остин\",\"Остен\",\"Болдрик\",\"Болдуин\",\"Барнеби\",\"Барри\",\"Джейкоб\",\"Этан\",\"Мэтью\",\"Бартоломью\",\"Джошуа\",\"Бэзил\",\"Бенедикт\",\"Беннет\",\"Бенджамин\",\"Бернард\",\"Барнард\",\"Бертрам\",\"Блэйз\",\"Брэндон\",\"Брэнден\",\"Брендан\",\"Брайан\",\"Брайс\",\"Бриттон\",\"Брюс\",\"Бруно\",\"Бак\",\"Бадди\",\"Кэлвин\",\"Сесил\",\"Чед\",\"Чарлз\",\"Честер\",\"Кристиан\",\"Кристофер\",\"Кларенс\",\"Клемент\",\"Клиффорд\",\"Клинтон\",\"Клайд\",\"Коди\",\"Колин\",\"Коллин\",\"Конрад\",\"Корнелиус\",\"Кёртис\",\"Катберт\",\"Дэйл\",\"Дэмьен\",\"Дэймон\",\"Дэниэл\",\"Дарси\",\"Дэвид\",\"Денис\",\"Деннис\",\"Дерек\",\"Дерик\",\"Деррик\",\"Доминик\",\"Доменик\",\"Доналд\",\"Дуглас\",\"Дуэйн\",\"Дилан\",\"Эдгар\",\"Эдмунд\",\"Эдвард\",\"Эдвин\",\"Эгберт\",\"Элайджа\",\"Элмер\",\"Эмери\",\"Эмори\",\"Эмил\",\"Эрик\",\"Эрнест\",\"Эсмонд\",\"Этелберт\",\"Юджин\",\"Юстас\",\"Эван\",\"Джозеф\",\"Эзра\",\"Феликс\",\"Фердинанд\",\"Фрэнк\",\"Фрэнсис\",\"Фредерик\",\"Гэбриэл\",\"Гэри\",\"Марк\",\"Пол\",\"Гэрри\",\"Гэвин\",\"Джеффри\",\"Годфри\",\"Джордж\",\"Джералд\",\"Джерард\",\"Джервис\",\"Гилберт\",\"Джайлс\",\"Годвин\",\"Гордон\",\"Грегори\",\"Гриффин\",\"Хэролд\",\"Харви\",\"Гектор\",\"Генри\",\"Джек\",\"Стивен\",\"Оливер\",\"Герберт\",\"Гомер\",\"Хорейс\",\"Хорейшио\",\"Ховард\",\"Хьюберт\",\"Хью\",\"Хьюго\",\"Айра\",\"Айзек\",\"Томас\",\"Кеннет\",\"Джеймс\",\"Джаред\",\"Джейсон\",\"Джаспер\",\"Джереми\",\"Майкл\",\"Джером\",\"Джесси\",\"Джоб\",\"Джоэл\",\"Джон\",\"Джона\",\"Джонас\",\"Джонатан\",\"Ричард\",\"Джордан\",\"Джулиан\",\"Джулиус\",\"Джуниор\",\"Джастин\",\"Кевин\",\"Ламберт\",\"Лоуренс\",\"Лео\",\"Леон\",\"Леонард\",\"Ленард\",\"Лестер\",\"Лайонел\",\"Льюис\",\"Люк\",\"Лукас\",\"Магнус\",\"Малколм\",\"Маркус\",\"Мартин\",\"Морис\",\"Моррис\",\"Максимилиан\",\"Максимиллиан\",\"Мелвин\",\"Мервин\",\"Марвин\",\"Майлс\",\"Майло\",\"Мозес\",\"Майрон\",\"Натан\",\"Натаниэл\",\"Уильям\",\"Нил\",\"Роберт\",\"Николас\",\"Найджел\",\"Ноа\",\"Ноэл\",\"Норман\",\"Осборн\",\"Оскар\",\"Освалд\",\"Освин\",\"Оуэн\",\"Патрик\",\"Персивал\",\"Перегрин\",\"Питер\",\"Пирс\",\"Филип\",\"Филлип\",\"Проспер\",\"Квентин\",\"Ралф\",\"Рэйф\",\"Рэнделл\",\"Рэндолф\",\"Рэймонд\",\"Расселл\",\"Тодд\",\"Эрл\",\"Стэнли\",\"Уоррен\",\"Даррелл\",\"Уэсли\",\"Дастин\",\"Вернон\",\"Брент\",\"Тайлер\",\"Бретт\",\"Милтон\",\"Франклин\",\"Митчелл\",\"Тайрон\",\"Даррен\",\"Нелсон\",\"Дуайт\",\"Эверетт\",\"Байрон\",\"Клифтон\",\"Маршалл\",\"Трэйси\",\"Стюарт\",\"Тревор\",\"Блэйк\",\"Грант\",\"Уиллис\",\"Престон\",\"Спенсер\",\"Шерман\",\"Реджиналд\",\"Рейнард\",\"Рейнолд\",\"Родерик\",\"Родни\",\"Роджер\",\"Роланд\",\"Ролф\",\"Роналд\",\"Росс\",\"Рой\",\"Рудолф\",\"Самсон\",\"Сэмюэл\",\"Скотт\",\"Скот\",\"Шон\",\"Сидни\",\"Сайлас\",\"Силвестер\",\"Саймон\",\"Соломон\",\"Теренс\",\"Теодор\",\"Тимоти\",\"Тобиас\",\"Тоби\",\"Валентайн\",\"Виктор\",\"Винсент\",\"Вёрджил\",\"Уолтер\",\"Уилфред\",\"Уилфрид\",\"Уинфрид\",\"Эшли\",\"Обри\",\"Беверли\",\"Кэмерон\",\"Кэмрон\",\"Клод\",\"Кори\",\"Ивлин\",\"Хилари\",\"Джунипер\",\"Келли\",\"Керри\",\"Лесли\",\"Ли\",\"Логан\",\"Морган\",\"Шеннон\",\"Шенон\"],\"id\":8,\"name\":\"мужские\"},{\"type\":\"arr\",\"childs\":[\"Эбигейл\",\"Эйда\",\"Эдела\",\"Эдел\",\"Эделия\",\"Агата\",\"Агнес\",\"Эннис\",\"Энис\",\"Элейна\",\"Алберта\",\"Александра\",\"Александрина\",\"Алексина\",\"Элис\",\"Алисия\",\"Элиша\",\"Элисон\",\"Барбара\",\"Мария\",\"Эллисон\",\"Аманда\",\"Эмбер\",\"Эмберли\",\"Лиза\",\"Эмберлин\",\"Амелия\",\"Эмис\",\"Эми\",\"Джессика\",\"Линда\",\"Amelia\",\"Энестейша\",\"Эндриа\",\"Эндра\",\"Энджелика\",\"Энджелина\",\"Энисса\",\"Энн\",\"Анна\",\"Ханна\",\"Эмма\",\"Дженнифер\",\"Аннабел\",\"Анабел\",\"Аннабелла\",\"Аннабелл\",\"Лили\",\"Мэдисон\",\"Маргарет\",\"Дороти\",\"Karen\",\"Карен\",\"Nancy\",\"Нэнси\",\"Антония\",\"Эприл\",\"Арабелла\",\"Арлин\",\"Патрисия\",\"Грэйс\",\"Элизабет\",\"Сьюзан\",\"София\",\"Мэри\",\"Эмили\",\"Эшлин\",\"Эшлинн\",\"Клои\",\"Одри\",\"Одра\",\"Огаста\",\"Эвис\",\"Барбра\",\"Батшеба\",\"Беатрис\",\"Беатрикс\",\"Софи\",\"Белинда\",\"Бернис\",\"Бернадетт\",\"Берта\",\"Бертина\",\"Берил\",\"Бетани\",\"Бланш\",\"Бонни\",\"Бренда\",\"Бриана\",\"Брианна\",\"Брианн\",\"Бриджет\",\"Бриттани\",\"Бритни\",\"Бриттни\",\"Камилла\",\"Кэндис\",\"Кармел\",\"Кармела\",\"Кэролайн\",\"Руби\",\"Кэтрин\",\"Кассандра\",\"Катрина\",\"Кэтлин\",\"Кэйтлин\",\"Сесили\",\"Сесилия\",\"Оливия\",\"Черити\",\"Чарла\",\"Чарлин\",\"Шарлин\",\"Шарлотт\",\"Честити\",\"Шерилин\",\"Шерил\",\"Кристиана\",\"Кристина\",\"Кристин\",\"Клер\",\"Клара\",\"Кларибел\",\"Бетти\",\"Кларисса\",\"Клеменс\",\"Клементин\",\"Клеопатра\",\"Колин\",\"Коллин\",\"Констанс\",\"Кора\",\"Корал\",\"Корделия\",\"Корнелия\",\"Кристал\",\"Синтия\",\"Дэйзи\",\"Дэйна\",\"Даниэла\",\"Даниэлла\",\"Дарлин\",\"Дебора\",\"Дебра\",\"Дейрдре\",\"Делайла\",\"Делла\",\"Делфия\",\"Дайана\",\"Дайан\",\"Дайна\",\"Дора\",\"Доркас\",\"Дорин\",\"Дорис\",\"Дорти\",\"Дорта\",\"Друзилла\",\"Далси\",\"Истер\",\"Эдит\",\"Эдвина\",\"Эйлин\",\"Айлин\",\"Илэйн\",\"Элинор\",\"Элфреда\",\"Элфрида\",\"Лизбет\",\"Элла\",\"Эмералд\",\"Эммелин\",\"Эрика\",\"Эрин\",\"Эстелла\",\"Эстер\",\"Хестер\",\"Этел\",\"Юджиния\",\"Юнис\",\"Юстейсия\",\"Ивэнджелин\",\"Фэй\",\"Фелисия\",\"Фелисити\",\"Флора\",\"Флоренс\",\"Фрэнсин\",\"Фредерика\",\"Габриэлла\",\"Джорджия\",\"Джорджиана\",\"Джорджина\",\"Джералдин\",\"Гертруд\",\"Джиллиан\",\"Джинджер\",\"Кэрол\",\"Глэдис\",\"Глория\",\"Донна\",\"Гризелда\",\"Гвен\",\"Гвенда\",\"Гвендолин\",\"Хитер\",\"Хелен\",\"Хелена\",\"Эллен\",\"Харриэт\",\"Хилда\",\"Холли\",\"Хоуп\",\"Хортенс\",\"Имоджен\",\"Айрин\",\"Айрис\",\"Рут\",\"Ирма\",\"Изабел\",\"Изабелла\",\"Джейд\",\"Джейн\",\"Дженел\",\"Дженис\",\"Джесмин\",\"Джин\",\"Джемайма\",\"Джоан\",\"Джоанна\",\"Джоэлла\",\"Джолин\",\"Джозефин\",\"Джой\",\"Джулия\",\"Джудит\",\"Сандра\",\"Джули\",\"Джулиана\",\"Джулианна\",\"Джульет\",\"Джун\",\"Джастина\",\"Карин\",\"Кимберли\",\"Лора\",\"Лорин\",\"Лорел\",\"Леона\",\"Летиша\",\"Лилиан\",\"Лиллиан\",\"Лилиана\",\"Лоррейн\",\"Лорейн\",\"Луиза\",\"Луиз\",\"Люсинда\",\"Люси\",\"Лидия\",\"Линетт\",\"Мэйбл\",\"Мэдлин\",\"Магдален\",\"Марша\",\"Марджери\",\"Марджори\",\"Мэриан\",\"Мэрион\",\"Марианна\",\"Мэрилин\",\"Мэрилинн\",\"Мерилин\",\"Марлен\",\"Марта\",\"Мартина\",\"Мэрайя\",\"Мэриэнн\",\"Мэрибет\",\"Мэрилу\",\"Матилда\",\"Мод\",\"Мэвис\",\"Мэй\",\"Меган\",\"Миган\",\"Мелани\",\"Мелина\",\"Мелинда\",\"Мелисса\",\"Мерси\",\"Мерри\",\"Милдред\",\"Миллисент\",\"Миранда\",\"Молли\",\"Моника\",\"Мюриэл\",\"Мерил\",\"Меррил\",\"Майра\",\"Миртл\",\"Наоми\",\"Натали\",\"Нора\",\"Норин\",\"Норма\",\"Октавия\",\"Опал\",\"Офелия\",\"Памела\",\"Пэйшенс\",\"Пола\",\"Полина\",\"Полин\",\"Пенелоуп\",\"Филиппа\",\"Филомена\",\"Фиби\",\"Филлис\",\"Полли\",\"Поппи\",\"Пози\",\"Примроуз\",\"Присцилла\",\"Пруденс\",\"Рэйчел\",\"Ребекка\",\"Реджина\",\"Рода\",\"Роберта\",\"Робин\",\"Розалинд\",\"Розалин\",\"Розамонд\",\"Розамунд\",\"Розанна\",\"Роуз\",\"Роза\",\"Розмари\",\"Роксенн\",\"Сабина\",\"Сабрина\",\"Саманта\",\"Сара\",\"Скарлет\",\"Шевонн\",\"Шина\",\"Шейла\",\"Шона\",\"Шонда\",\"Сибил\",\"Силвия\",\"Линдси\",\"Трэйси\",\"Шерон\",\"Стелла\",\"Стефани\",\"Сюзан\",\"Сюзанна\",\"Табита\",\"Теодора\",\"Тереза\",\"Томазина\",\"Томазин\",\"Тэмзин\",\"Тиффани\",\"Урсула\",\"Валери\",\"Ванесса\",\"Верити\",\"Вероника\",\"Виктория\",\"Вайолет\",\"Вирджиния\",\"Венди\",\"Уилла\",\"Уинифред\",\"Зои\",\"Алексис\",\"Алексия\",\"Энджел\",\"Энджела\",\"Эриэл\",\"Эшли\",\"Обри\",\"Беверли\",\"Брук\",\"Кэмерон\",\"Кори\",\"Хилари\",\"Хиллари\",\"Джуэл\",\"Джоселин\",\"Джоди\",\"Келли\",\"Керри\",\"Лорен\",\"Лорина\",\"Ли\",\"Лесли\",\"Линн\",\"Мередин\",\"Морган\",\"Перл\",\"Шеннон\",\"Шенон\"],\"id\":9,\"name\":\"женские\"},{\"type\":\"arr\",\"childs\":[\"Смит\",\"Джонсон\",\"Уильямс\",\"Джонс\",\"Браун\",\"Дэвис\",\"Миллер\",\"Уилсон\",\"Мур\",\"Тэйлор\",\"Андерсон\",\"Томас\",\"Джексон\",\"Уайт\",\"Харрис\",\"Мартин\",\"Томпсон\",\"Робинсон\",\"Кларк\",\"Льюис\",\"Ли\",\"Уокер\",\"Холл\",\"Аллен\",\"Янг\",\"Кинг\",\"Райт\",\"Хилл\",\"Скотт\",\"Грин\",\"Адамс\",\"Бэйкер\",\"Нелсон\",\"Картер\",\"Митчелл\",\"Робертс\",\"Тёрнер\",\"Филлипс\",\"Кэмпбелл\",\"Паркер\",\"Эванс\",\"Эдвардс\",\"Коллинз\",\"Стюарт\",\"Моррис\",\"Роджерс\",\"Рид\",\"Кук\",\"Морган\",\"Белл\",\"Мёрфи\",\"Бэйли\",\"Купер\",\"Ричардсон\",\"Кокс\",\"Ховард\",\"Уорд\",\"Грей\",\"Джеймс\",\"Уотсон\",\"Брукс\",\"Келли\",\"Сандерс\",\"Прайс\",\"Беннетт\",\"Вуд\",\"Росс\",\"Хендерсон\",\"Дженкинс\",\"Перри\",\"Пауэлл\",\"Лонг\",\"Паттерсон\",\"Уошингтон\",\"Батлер\",\"Симмонс\",\"Фостер\",\"Брайант\",\"Александер\",\"Расселл\",\"Гриффин\",\"Форд\",\"Хэмилтон\",\"Салливан\",\"Вудс\",\"Коул\",\"Уэст\",\"Джордан\",\"Оуэнс\",\"Рейнолдс\",\"Фишер\",\"Эллис\",\"Харрисон\",\"Гибсон\",\"Макдоналд\",\"Маршалл\",\"Фримен\",\"Уэллс\",\"Уэбб\",\"Симпсон\",\"Стивенс\",\"Такер\",\"Портер\",\"Хантер\",\"Хикс\",\"Кроуфорд\",\"Генри\",\"Бойд\",\"Мэйсон\",\"Кеннеди\",\"Уоррен\",\"Диксон\",\"Бёрнс\",\"Гордон\",\"Шоу\",\"Холмс\",\"Райс\",\"Робертсон\",\"Хант\",\"Блэк\",\"Дэниэлс\",\"Палмер\",\"Миллс\",\"Николс\",\"Грант\",\"Найт\",\"Фергюсон\",\"Роуз\",\"Стоун\",\"Хоукинс\",\"Перкинс\",\"Хадсон\",\"Спенсер\",\"Гарднер\",\"Пэйн\",\"Пирс\",\"Берри\",\"Мэтьюс\",\"Арнолд\",\"Уиллис\",\"Рэй\",\"Уоткинс\",\"Кэрролл\",\"Харт\",\"Каннингем\",\"Брэдли\",\"Лэйн\",\"Эндрюс\",\"Харпер\",\"Фокс\",\"Райли\",\"Армстронг\",\"Карпентер\",\"Уивер\",\"Лоуренс\",\"Эллиот\",\"Симс\",\"Остин\",\"Питерс\",\"Франклин\",\"Лоусон\",\"Филдс\",\"Райан\",\"Карр\",\"Уилер\",\"Чепмен\",\"Оливер\",\"Монтгомери\",\"Ричардс\",\"Уильямсон\",\"Джонстон\",\"Бэнкс\",\"Бишоп\",\"Маккой\",\"Моррисон\",\"Харви\",\"Литтл\",\"Стэнли\",\"Джордж\",\"Джейкобс\",\"Линч\",\"Дин\",\"Гилберт\",\"Гаррет\",\"Уэлч\",\"Бёрк\",\"Дэй\",\"Фаулер\",\"Пирсон\",\"Холланд\",\"Дуглас\",\"Флеминг\",\"Бёрд\",\"Дэвидсон\",\"Хопкинс\",\"Мэй\",\"Терри\",\"Уэйд\",\"Уолтерс\",\"Кёртис\",\"Нил\",\"Колдуэлл\",\"Дженнингс\",\"Барнетт\",\"Хортон\",\"Шелтон\",\"Барретт\",\"О’Брайан\",\"Саттон\",\"Грегори\",\"Маккинни\",\"Лукас\",\"Майлс\",\"Крэйг\",\"Чемберс\",\"Холт\",\"Ламберт\",\"Флетчер\",\"Уоттс\",\"Бэйтс\",\"Ньюмен\",\"Хэйнс\",\"Макдэниэл\",\"Паркс\",\"Доусон\",\"Норрис\",\"Харди\",\"Пауэрс\",\"Баркер\",\"Пэйдж\",\"Болл\",\"Чендлер\",\"Леонард\",\"Уолш\",\"Лайонс\",\"Рэмси\",\"Бенсон\",\"Шарп\",\"Дэниэл\",\"Барбер\",\"Каммингс\",\"Хайнс\",\"Болдуин\",\"Гриффит\",\"Хаббард\",\"Ривс\",\"Уорнер\",\"Стивенсон\",\"Тэйт\",\"Кросс\",\"Торнтон\",\"Деннис\",\"Макги\",\"Фармер\",\"Мэннинг\",\"Хармон\",\"Роббинс\",\"Ньютон\",\"Тодд\",\"Блэр\",\"Хиггинс\",\"Кэннон\",\"Стрикленд\",\"Таунсенд\",\"Поттер\",\"Гудвин\",\"Уолтон\",\"Хэмптон\",\"Джозеф\",\"Фрэнсис\",\"Гудмен\",\"Ходжес\",\"Уэбстер\",\"Норман\",\"Мэлоун\",\"Флауэрс\",\"Кобб\",\"Муди\",\"Куинн\",\"Блэйк\",\"Максвелл\",\"Поуп\",\"Флойд\",\"Осборн\",\"Пол\",\"Маккарти\",\"Линдси\",\"Гиббс\",\"Тайлер\",\"Фитцджералд\",\"Стоукс\",\"Дойл\",\"Шерман\",\"Грир\",\"Саймон\",\"Уотерс\",\"Макбрайд\",\"Хьюстон\",\"Бриггс\",\"Парсонс\",\"Маклафлин\",\"Френч\",\"Коупленд\",\"Маккормик\",\"Пул\",\"Логан\",\"Оуэн\",\"Марш\",\"Джефферсон\",\"Парк\",\"Мортон\",\"Спаркс\",\"Патрик\",\"Нортон\",\"Ллойд\",\"Карсон\",\"Бартон\",\"Лэмб\",\"Харрингтон\",\"Кэйси\",\"Бун\",\"Синглтон\",\"Уилкинс\",\"Кэйн\",\"Брайан\",\"Андервуд\",\"Маккензи\",\"Фелпс\",\"Эллисон\",\"Бриджес\",\"Уилкерсон\",\"Нэш\",\"Саммерс\",\"Эткинс\",\"Уилкокс\",\"Питтс\",\"Конли\",\"Ричард\",\"Чейз\",\"Худ\",\"Диккерсон\",\"Ходж\",\"Флинн\",\"Николсон\",\"Рэнделл\",\"Энтони\",\"О’Коннор\",\"Скиннер\",\"Брэдфорд\",\"Чарлз\",\"Гилмор\",\"О’Нил\",\"Брюс\",\"Лэнг\",\"Хит\",\"Хэнкок\",\"Галлахер\",\"Гэйнс\",\"Шорт\",\"Уиггинс\",\"Смолл\",\"Мелтон\",\"Хенсли\",\"Бонд\",\"Кэмерон\",\"Сноу\",\"Мосли\",\"Шеферд\",\"Хувер\",\"Бисли\",\"Гленн\",\"Уайтхед\",\"Гаррисон\",\"Шилдс\",\"Хорн\",\"Бут\",\"Итон\",\"Харрелл\",\"Лестер\",\"Пэриш\",\"Хатчинсон\",\"Дорси\",\"Далтон\",\"Рич\",\"Йорк\",\"Блэнкеншип\",\"Голден\",\"Макдауэлл\",\"Стаффорд\",\"Уилкинсон\",\"Букер\",\"Мерритт\",\"Эткинсон\",\"Престон\"],\"id\":10,\"name\":\"Фамилии\"},{\"type\":\"gen\",\"childs\":[{\"type\":\"link\",\"childs\":[],\"id\":12,\"name\":\"элемент_12\",\"link\":8},{\"type\":\"str\",\"childs\":[],\"id\":13,\"name\":\"элемент_13\",\"text\":\" \"},{\"type\":\"link\",\"childs\":[],\"id\":14,\"name\":\"элемент_14\",\"link\":10}],\"id\":11,\"name\":\"Мужские имена\",\"publish\":true},{\"type\":\"gen\",\"childs\":[{\"type\":\"link\",\"childs\":[],\"id\":16,\"name\":\"элемент_16\",\"link\":9},{\"type\":\"str\",\"childs\":[],\"id\":17,\"name\":\"элемент_17\",\"text\":\" \"},{\"type\":\"link\",\"childs\":[],\"id\":18,\"name\":\"элемент_18\",\"link\":10}],\"id\":15,\"name\":\"Женские имена\",\"publish\":true}]},\"autoincrement\":19,\"name\":\"Английские имена\",\"publish\":true};\n\n//alert(JSON.stringify(cgen));",
+			"settings":
+			{
+				"buffer_size": 10799,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "cop",
+		"selected_items":
+		[
+			[
+				"cop",
+				"Color Picker"
+			],
+			[
+				"set syntax mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"pag",
+				"Package Control: Remove Package"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Highlight Mistakes: Check Current File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"ipse",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"recon",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"g",
+				"Google Spell Check"
+			],
+			[
+				"",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 123.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/theme",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/theme/css"
+	],
+	"file_history":
+	[
+		"/Applications/Manuscripts.app/Contents/Resources/acknowledgements.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/theme/sidebars/related.html",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/theme/sidebars/search.html",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/theme/sidebars/toc.html",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/theme/sidebars/about.html",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/guild.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/mkdocs.yml",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/newspaper-12.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/theme/main.html",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/freehold.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/race.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/empire.md",
+		"/Users/Mairc/Downloads/-17.01.17.md",
+		"/Users/Mairc/Downloads/-02.03.17.md",
+		"/Users/Mairc/Downloads/md.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/ooc/rules.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/ooc/about-us.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/currency.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/languages.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/list.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/ooc/pc.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/thaumatology.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/island.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/+site/cemetery/index.html",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/calendar.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/index.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/Персонажи/Мёртвые/Алан Брайт - Адам Мориарти.gcs",
+		"/Users/Mairc/Downloads/torrent/Evaer Video Recorder for Skype v1.6.2.17 Final Eng_Rus/KEY.txt",
+		"/Users/Mairc/Downloads/Naydzhel_Byord.gcs",
+		"/Users/Mairc/Downloads/torrent/Evaer Video Recorder for Skype v1.6.2.17 Final Eng_Rus/Readme.txt",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/site/wiki/thaumatology/index.html",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/magic.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/theme/css/alabaster.css",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/+site/englishname/js/englishNames.js",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/+site/englishname/index.html",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/+site/ts/index.html",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/+site/namegen/js/englishNames.js",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/+site/namegen/english.html",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/+site/namegen/englishNames.html",
+		"/Users/Mairc/Desktop/gen.html",
+		"/Users/Mairc/Desktop/englishNames.js",
+		"/Users/Mairc/Desktop/names.txt",
+		"/Users/Mairc/Downloads/-18.01.17.md",
+		"/Users/Mairc/Desktop/00",
+		"/Users/Mairc/Downloads/-17.01.17-2.md",
+		"/Users/Mairc/Downloads/-17.01.17-3.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/sultanate.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/cosmos.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/gods.md",
+		"/Users/Mairc/Downloads/md-4.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/forest.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/republic.md",
+		"/Users/Mairc/Downloads/md-2.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/confederation.md",
+		"/Users/Mairc/Downloads/md-3.md",
+		"/Users/Mairc/Downloads/map/index.html",
+		"/Users/Mairc/Downloads/map/src/Control.GlobeMiniMap.js",
+		"/Users/Mairc/Downloads/map/htaccess",
+		"/Users/Mairc/Downloads/map/leaflet.js",
+		"/Users/Mairc/Downloads/map/L.TileLayer.Zoomify.js",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/+site/map/index.html",
+		"/Users/Mairc/Downloads/fantasynamegenerators.com/js/cityNames.js",
+		"/Users/Mairc/Downloads/fantasynamegenerators.com/js/townNames.js",
+		"/Users/Mairc/Desktop/westEuropeTowns.js",
+		"/Users/Mairc/Downloads/fantasynamegenerators.com/js/westEuropeTowns.js",
+		"/Users/Mairc/Downloads/westEuropeTowns.js",
+		"/Users/Mairc/Downloads/fantasynamegenerators.com/js/southEastEuropeanTowns.js",
+		"/Users/Mairc/Downloads/fantasynamegenerators.com/js/northEuropeTowns.js",
+		"/Volumes/Mounty for NTFS/Read Me First.md",
+		"/Users/Mairc/Library/Preferences/com.apple.HIToolbox.plist.Z74Rvyn",
+		"/Users/Mairc/Library/Preferences/com.apple.HIToolbox.plist.Zx6dCdD",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/guildbook.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/ryu.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/thing.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/theme/inc/homepage_nav.html",
+		"/Users/Mairc/Downloads/guildbook.md",
+		"/Users/Mairc/Downloads/Стало.md",
+		"/Users/Mairc/Library/Application Support/com.colliderli.iina/input_conf/Mairc.conf",
+		"/Users/Mairc/Desktop/Учётная книга гильдии | Скользкая △ Сардина [НРИ] | ВКонтакте.html",
+		"/Users/Mairc/Desktop/Учётная книга гильдии | Скользкая △ Сардина [НРИ] | VK.html",
+		"/Users/Mairc/Desktop/Учётная книга гильдии | Скользкая △ Сардина [НРИ].html",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/index.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/theme/js/button_down.js",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/guildbook",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/inventory/revolvers.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/inventory/armor.md",
+		"/Users/Mairc/Downloads/other/md.md",
+		"/Users/Mairc/Downloads/other/md-4.md",
+		"/Users/Mairc/Downloads/other/md-3.md",
+		"/Users/Mairc/Downloads/other/md-2.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/ooc/newcomers.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/theme/css/basic.css",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/site/js/button_down.js",
+		"/Volumes/Things 2.8.8 MAS [TNT]/Manual install/Инструкция.txt",
+		"/Volumes/Things 2.8.8 MAS [TNT]/Manual install/Readme.txt",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/ooc/links.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/report/contract-4.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/report/---",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/theme/htaccess",
+		"/Users/Mairc/Desktop/index.html",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/+site/ts-mon/index.html",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/corporation.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/language.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/newspaper-13.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/newspaper-14.md",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg/docs/wiki/rank.md",
+		"/Users/Mairc/sardinka/theme/js/button_down.js",
+		"/Users/Mairc/sardinka/theme/css/alabaster.css",
+		"/Users/Mairc/sardinka/theme/main.html",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/blog/themes/apollo-sardinka/_config.yml",
+		"/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/blog/_config.yml",
+		"/Users/Mairc/sardinka/mkdocs.yml",
+		"/Users/Mairc/sardinka/theme/js/theme copy.js",
+		"/Users/Mairc/sardinka/docs/ooc/rules.md",
+		"/Users/Mairc/sardinka/theme/sidebars/toc.html",
+		"/Users/Mairc/sardinka/docs/index.md",
+		"/Users/Mairc/sardinka/docs/ooc/links.md",
+		"/Users/Mairc/sardinka/docs/wiki/calendar.md",
+		"/Users/Mairc/sardinka/docs/gcs/gcs-0.md",
+		"/Users/Mairc/sardinka/docs/gcs/gcs-1.md",
+		"/Users/Mairc/sardinka/docs/gcs/gcs-2.md",
+		"/Users/Mairc/sardinka/docs/wiki/gods.md",
+		"/Users/Mairc/sardinka/docs/wiki/race.md",
+		"/Users/Mairc/sardinka/docs/wiki/confederation.md",
+		"/Users/Mairc/sardinka/docs/ooc/newcomers.md",
+		"/Users/Mairc/sardinka/docs/ooc/contract.md",
+		"/Users/Mairc/sardinka/docs/ooc/about.md",
+		"/Users/Mairc/sardinka/docs/ooc/about-us.md"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 112.0,
+		"where_history":
+		[
+			"<current file>",
+			"",
+			"-*.tex",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"# ",
+			"\nhttps://",
+			"---\ntitle: Вторая Великая и Неделимая Империя Человечества\ndate: 04-07-2016 07:01\nupdate: 16−02-2017 17:00\n---\n",
+			"\n---\ntitle: Вторая Великая и Неделимая Империя Человечества\ndate: 04-07-2016 07:01\nupdate: 16−02-2017 17:00\n---#\n",
+			"# ",
+			"  ",
+			"<advantage version=\"2\">",
+			"advantage",
+			"#",
+			"\n",
+			"волшеб",
+			"Маг",
+			"--",
+			"      ",
+			"\n",
+			"--",
+			"     ",
+			"\n",
+			"Рандалл",
+			"Вэскз",
+			"Рори",
+			"Молина",
+			"Голландия",
+			"Сальваторе",
+			"Hahn",
+			"Мухаммад",
+			"names",
+			"’",
+			"}",
+			"\\803",
+			"舃",
+			" ",
+			" \"",
+			" ",
+			"О",
+			"result",
+			"resul",
+			"namesMale",
+			", ",
+			" \",\" ",
+			"\",",
+			", ",
+			"Avianna",
+			"Janelle",
+			"Aleah",
+			"Kaelyn",
+			"Kailey",
+			"Jayleen",
+			"Brylee",
+			"Madisyn",
+			"Breanna",
+			"Елена",
+			"Алый",
+			"Scarlet\"",
+			"Scarlet",
+			"Breanna",
+			"Myla",
+			"Madelynn",
+			"Апрель",
+			"Emely",
+			"\", ",
+			"Imani",
+			"Elle\"",
+			"Elle",
+			"Charlee",
+			"Amiyah",
+			"Maliyah",
+			"Briella",
+			"Angelica",
+			"Macie",
+			"Olive",
+			"Kamryn",
+			"Raelynn",
+			"Elaina",
+			"Baylee",
+			"Jazmine",
+			"Nyla",
+			"Путешествие",
+			"Aubrie",
+			"Mallory",
+			"Brynlee",
+			"\"Небо",
+			"Небо",
+			"Cheyenne",
+			"Annabella",
+			"Elliana",
+			"Raegan",
+			"Nina",
+			"Nyna",
+			"Kyleigh",
+			"Madilyn",
+			"Sierra",
+			"Париж",
+			"Kaydence",
+			"Kelsey",
+			"Teagan",
+			"Addyson",
+			"Остров",
+			"Ангел\"",
+			"Ангел",
+			"Sh",
+			"She",
+			"Надежда",
+			"au",
+			"av",
+			"avrora",
+			"саммеР",
+			"самме",
+			"лето",
+			"ktnj",
+			"Same",
+			"SammE",
+			"Samm",
+			"[A-Z]",
+			", ",
+			"Scott",
+			"\"",
+			", ",
+			"Giovanny",
+			", \"",
+			",\"",
+			"[A-Z]",
+			" \"",
+			"\",",
+			" \",\" ",
+			"**-**",
+			"#",
+			"*—*"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" \t",
+			" —",
+			"fuel",
+			"«",
+			"»",
+			"«",
+			"–",
+			"mpxtabular*",
+			"}{\\columnwidth}",
+			"*}{7cm}{cp{7cm}}",
+			"longtable",
+			"}{2}",
+			"]{2}",
+			"Харизма",
+			"Лидерство",
+			"Физиология",
+			"Врачебное дело"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1298,
+								1298
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"default_dir": "/Users/Mairc/Dropbox (Slippery Sardine)/Slippery Sardine Team Files/sardinkaorg",
+							"enable_checkbounce_grammar": false,
+							"enable_checkbounce_spelling": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 149.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "sardinkaorg.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Slippery Sardine My Files/Slippery Sardine Team Files/blog/sardinka.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 124.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

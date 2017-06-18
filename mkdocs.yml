@@ -1,0 +1,77 @@
+site_name: Slippery △ Sardine
+pages:
+  - Вики: index.md
+  - Вики Содержание: 'wiki/list.md'
+  - ООС:
+    - О проекте: 'ooc/about.md'
+    - О нас: 'ooc/about-us.md'
+    - Синхронизатор ожиданий: 'ooc/same-page.md'
+    - Социальный договор: 'ooc/contract.md'
+    - Правилами создания и развития персонажа: 'ooc/rules.md'
+    - Основы GCS:
+      - Часть 0: 'gcs/gcs-0.md'
+      - Часть 1: 'gcs/gcs-1.md'
+      - Часть 2: 'gcs/gcs-2.md'
+    - Вопросы по квенте: 'ooc/pc.md'
+    - Ссылки: 'ooc/links.md'
+  - О сотворении Мира: 'wiki/cosmos.md'
+  - Боги: 'wiki/gods.md'
+  - Расы: 'wiki/race.md'
+  - Языки: 'wiki/languages.md'
+  - Государства:
+      - Вторая Великая и Неделимая Империя Человечества: 'wiki/empire.md'
+      - Тинг Дворфов: 'wiki/thing.md'
+      - Финийский Султанат: 'wiki/sultanate.md'
+      - Вечнолесье: 'wiki/forest.md'
+      - Мир Высших Эльфов: 'wiki/island.md'
+      - Республика Бриеле: 'wiki/republic.md'
+      - Конфедерация Вольных Городов: 'wiki/confederation.md'
+      - Веспианов Фригольд: 'wiki/freehold.md'
+  - Другое:
+      - Календарь: 'wiki/calendar.md'
+      - Валюты: 'wiki/currency.md'
+      - Звания и статус: 'wiki/rank.md'
+      - Мировые корпорации: 'wiki/corporation.md'
+  - Тауматология (Магия): 'wiki/thaumatology.md'
+  - Инвентарь:
+      - Снаряжение: 'wiki/inventory/inventory.md'
+      - Револьверы: 'wiki/inventory/revolvers.md'
+      - Винтовки и ружья: 'wiki/inventory/rifles.md'
+      - Холодное оружие: 'wiki/inventory/melee.md'
+      - Другое оружие: 'wiki/inventory/other.md'
+      - Одежда и броня: 'wiki/inventory/armor.md' 
+  - О Гильдия: 'wiki/guild.md'
+  - Учётная книга: 'wiki/guildbook.md'
+  - Газеты:
+    - Газета №12 — Имперский писака: 'wiki/newspaper-12.md'
+    - Газета №13 — Фена Пост: 'wiki/newspaper-13.md'
+    - Газета №14 — Альянс Таймс: 'wiki/newspaper-14.md'
+  - Отчёты:
+    - Контракт №4 — А на счёт три вы проснётесь…: 'report/contract-4.md'
+
+theme: null
+theme_dir: 'theme'
+site_author: Mairc, Paul, Yurii, Anton, Maria and al.
+copyright: 2016 Mairc, Paul, Yurii, Anton, Maria and al.
+google_analytics: ['UA-66002235-2' , 'sardinka.org']
+
+markdown_extensions:
+    - toc:
+       permalink: ""
+    - smarty
+    - footnotes
+    - extra
+    - tables
+    - meta
+
+extra_javascript:
+
+
+extra:
+  logo: logo.png
+  logo_name: false
+  logo_title: "Скользкая △ Сардина"
+  include_toc: yes
+  extra_nav_links:
+    МОНИТОРИНГ ТС: 'http://sardinka.org/ts/'
+

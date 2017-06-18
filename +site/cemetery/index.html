@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="ru" class="no-js">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Кладбище · Slippery △ Sardine</title>
+	<meta name="description" content="Кладбище Гильдии" />
+	<meta name="author" content="Mairc et. al." />
+	<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700,500,900' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css?family=Cormorant+Infant" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/demo.css" />
+	<link rel="stylesheet" type="text/css" href="css/style1.css"/>
+
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r ].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-66002235-2', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<!-- End Google Analytics -->
+
+</head>
+
+<body class="demo-1">
+	
+	<div class="image-preload">
+		<img src="img/drop-color.png" alt="">
+		<img src="img/drop-alpha.png" alt="">
+		<img src="img/weather/texture-rain-fg.png" />
+		<img src="img/weather/texture-rain-bg.png" />
+	</div>
+	
+	<header class="codrops-header">
+		<div class="codrops-link"><a class="" href="https://sardinka.org" title="Назад к Вики">⬅︎</a></div>
+	</header>
+
+	<audio loop autoplay> 
+		<source src="Moonlight-Sonata-rain.mp3" type="audio/mpeg">
+		Your browser does not support the audio element.
+	</audio>
+
+
+		<div class="slideshow">
+			<canvas width="1" height="1" id="container" style="position:absolute"></canvas>
+			<div class="slide" id="grave-1" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Самеди</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Суббота всегда приходит так рано.</font></div>
+			</div>
+			<div class="slide" id="grave-2" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Ларс Репштилт</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">И ты, Мурдук?!</font></div>
+			</div>
+			<div class="slide" id="grave-3" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Грок</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Пламя души сожгло его изнутри.</font></div>
+			</div>
+			<div class="slide" id="grave-4" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Джо Смитерс</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Поговорил с незнакомцем и вот итог.</font></div>
+			</div>
+			<div class="slide" id="grave-5" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Жозе Алварес</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Любой Герой должен уметь драться, он был третьим.</font></div>
+			</div>
+			<div class="slide" id="grave-6" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Агна Абель</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">А мне бы в небо!</font></div>
+			</div>
+			<div class="slide" id="grave-7" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Джо Джоуль</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Унёс с собой в могилу три сотни душ.<br>Гори в Аду!</font></div>
+			</div>
+			<div class="slide" id="grave-8" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Вегета</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Спасал друга, но был невовремя сожран.</font></div>
+			</div>
+			<div class="slide" id="grave-9" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Гильгамеш</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Попал в клуб 27!</font></div>
+			</div>
+			<div class="slide" id="grave-10" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Тилия Найтвил</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">И смерть теперь ей только снится.</font></div>
+			</div>
+			<div class="slide" id="grave-11" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Норберт</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Непунктуальность свела его в могилу.</font></div>
+			</div>
+			<div class="slide" id="grave-12" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Нитз</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Он мог бы стать героем, но стал просто закуской.</font></div>
+			</div>
+			<div class="slide" id="grave-13" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Доран</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Свинья!</font></div>
+			</div>
+			<div class="slide" id="grave-14" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Харви</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Болт от брата, так в жизни за основу взято.</font></div>
+			</div>
+			<div class="slide" id="grave-15" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Нельда Баккет</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">И всё-таки Он настиг её.</font></div>
+			</div>
+			<div class="slide" id="grave-16" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Тед Рид</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Грубил маленьким, умер молодым.</font></div>
+			</div>
+			<div class="slide" id="grave-17" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Ирвин Левестов</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Полиция оказалась совсем не доброй.</font></div>
+			</div>
+			<div class="slide" id="grave-18" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Горман Пермен</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Печень убивает не только алкоголь, но и грубое слово.</font></div>
+			</div>
+			<div class="slide" id="grave-19" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Ли Дай Си</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Пуля быстрее магии. Спи спокойно, друг!</font></div>
+			</div>
+			<div class="slide" id="grave-20" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Валэргард</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Ответил за брата.</font></div>
+			</div>
+			<div class="slide" id="grave-21" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Ирза</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Эх, вот это была гордая птица!</font></div>
+			</div>
+			<div class="slide" id="grave-22" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Дэниел ван дер Беер</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Был придавлен ножкой от рояля.</font></div>
+			</div>
+			<div class="slide" id="grave-23" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Корнелиус Кессиди</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Маленький, хитрый, почти мертвый!</font></div>
+			</div>
+			<div class="slide" id="grave-24" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Алистер Блэк</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Пал в неравной схватке, почти Герой!</font></div>
+			</div>
+			<div class="slide" id="grave-25" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Ян Ралбонг</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">К сожалению, лошадки не летают, зато пули – да.</font></div>
+			</div>
+			<div class="slide" id="grave-26" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Хаки Виллемс</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Долго думал – быстро умер.</font></div>
+			</div>
+			<div class="slide" id="grave-27" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Ясон</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Решил подать себя закуской не к тому обеду.</font></div>
+			</div>
+			<div class="slide" id="grave-28" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Алистер Вега</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Где ты теперь, Алистер?!</font></div>
+			</div>
+			<div class="slide" id="grave-29" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Адам Мориарти</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Утоплен за непокорность в море Отчаяния.</font></div>
+			</div>
+			<div class="slide" id="grave-30" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Ове Свинцовая Борода</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Он был так хорош, но их было больше.</font></div>
+			</div>
+			<div class="slide" id="grave-31" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Гуннар</font></div>
+				<div class="slide__element slide_under_name"><font face="Cormorant Infant">Жив в легендах, не рассказанных бардом.</div>
+			</div>
+			<div class="slide" id="grave-31" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Фог Лан'Гаузен</font></div>
+				<div class="slide__element slide_under_name">Язык довел его до петли.<font face="Cormorant Infant"></div>
+			</div>
+			<div class="slide" id="grave-32" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Донни Андерсон</font></div>
+				<div class="slide__element slide_under_name">Он не был вежливым с дамами… очень жаль.<font face="Cormorant Infant"></div>
+			</div>
+			<div class="slide" id="grave-33" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Демиан Рен</font></div>
+				<div class="slide__element slide_under_name">Был огонь — стал камень.<font face="Cormorant Infant"></div>
+			</div>
+
+			<div class="slide" id="grave-34" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Громашш</font></div>
+				<div class="slide__element slide_under_name">Уснул и забыл проснуться.<font face="Cormorant Infant"></div>
+				<div class="slide__element slide_under_name">IX.II.1852<font face="Cormorant Infant"></div>
+			</div>
+			<div class="slide" id="grave-35" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Норвальд Гродд</font></div>
+				<div class="slide__element slide_under_name">Свистеть не мешки ворочить.<font face="Cormorant Infant"></div>
+				<div class="slide__element slide_under_name">XXI.II.1852<font face="Cormorant Infant"></div>
+			</div>
+			<div class="slide" id="grave-36" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Генри Холт</font></div>
+				<div class="slide__element slide_under_name">Он рыб кормил напрасно ведь он не виноват.<font face="Cormorant Infant"></div>
+				<div class="slide__element slide_under_name">XXI.II.1852<font face="Cormorant Infant"></div>
+			</div>
+			<div class="slide" id="grave-37" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Оман Лен</font></div>
+				<div class="slide__element slide_under_name">Ушел по английски.<font face="Cormorant Infant"></div>
+				<div class="slide__element slide_under_name">VI.IV.1852<font face="Cormorant Infant"></div>
+			</div>
+
+			<div class="slide" id="grave-38" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Самуэль Диас</font></div>
+				<div class="slide__element slide_under_name">Не то место, не то время.<font face="Cormorant Infant"></div>
+				<div class="slide__element slide_under_name">XXI.IV.1852<font face="Cormorant Infant"></div>
+			</div>
+			<div class="slide" id="grave-39" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">г-н Джек</font></div>
+				<div class="slide__element slide_under_name">Заплатил по долгам.<font face="Cormorant Infant"></div>
+				<div class="slide__element slide_under_name">XXI.IV.1852<font face="Cormorant Infant"></div>
+			</div>
+			<div class="slide" id="grave-40" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Брайс Харпер</font></div>
+				<div class="slide__element slide_under_name">Его доброта сгубила его.<font face="Cormorant Infant"></div>
+				<div class="slide__element slide_under_name">XXI.IV.1852<font face="Cormorant Infant"></div>
+			</div>
+			<div class="slide" id="grave-41" data-weather="rain">
+				<div class="slide__element slide_name"><font face="Cormorant Infant">Диего Разус</font></div>
+				<div class="slide__element slide_under_name">Ему стоило воспользоваться советом Брайса.<font face="Cormorant Infant"></div>
+				<div class="slide__element slide_under_name">XXI.IV.1852<font face="Cormorant Infant"></div>
+			</div>
+
+			<nav class="slideshow__nav">
+				<a class="nav-item" href="#grave-1"><i class="icon"></i><span>I</span></a>
+				<a class="nav-item" href="#grave-2"><i class="icon"></i><span>II</span></a>
+				<a class="nav-item" href="#grave-3"><i class="icon"></i><span>III</span></a>
+				<a class="nav-item" href="#grave-4"><i class="icon"></i><span>IV</span></a>
+				<a class="nav-item" href="#grave-5"><i class="icon"></i><span>V</span></a>
+				<a class="nav-item" href="#grave-6"><i class="icon"></i><span>VI</span></a>
+				<a class="nav-item" href="#grave-7"><i class="icon"></i><span>VII</span></a>
+				<a class="nav-item" href="#grave-8"><i class="icon"></i><span>VIII</span></a>
+				<a class="nav-item" href="#grave-9"><i class="icon"></i><span>IX</span></a>
+				<a class="nav-item" href="#grave-10"><i class="icon"></i><span>X</span></a>
+				<a class="nav-item" href="#grave-11"><i class="icon"></i><span>XI</span></a>
+				<a class="nav-item" href="#grave-12"><i class="icon"></i><span>XII</span></a>
+				<a class="nav-item" href="#grave-13"><i class="icon"></i><span>XIII</span></a>
+				<a class="nav-item" href="#grave-14"><i class="icon"></i><span>XIV</span></a>
+				<a class="nav-item" href="#grave-15"><i class="icon"></i><span>XV</span></a>
+				<a class="nav-item" href="#grave-16"><i class="icon"></i><span>XVI</span></a>
+				<a class="nav-item" href="#grave-17"><i class="icon"></i><span>XVII</span></a>
+				<a class="nav-item" href="#grave-18"><i class="icon"></i><span>XVIII</span></a>
+				<a class="nav-item" href="#grave-19"><i class="icon"></i><span>XIX</span></a>
+				<a class="nav-item" href="#grave-20"><i class="icon"></i><span>XX</span></a>
+				<a class="nav-item" href="#grave-21"><i class="icon"></i><span>XXI</span></a>
+				<a class="nav-item" href="#grave-22"><i class="icon"></i><span>XXII</span></a>
+				<a class="nav-item" href="#grave-23"><i class="icon"></i><span>XXIII</span></a>
+				<a class="nav-item" href="#grave-24"><i class="icon"></i><span>XXIV</span></a>
+				<a class="nav-item" href="#grave-25"><i class="icon"></i><span>XXV</span></a>
+				<a class="nav-item" href="#grave-26"><i class="icon"></i><span>XXVI</span></a>
+				<a class="nav-item" href="#grave-27"><i class="icon"></i><span>XXVII</span></a>
+				<a class="nav-item" href="#grave-28"><i class="icon"></i><span>XXVIII</span></a>
+				<a class="nav-item" href="#grave-29"><i class="icon"></i><span>XXIX</span></a>
+				<a class="nav-item" href="#grave-30"><i class="icon"></i><span>XXX</span></a>
+				<a class="nav-item" href="#grave-31"><i class="icon"></i><span>XXXI</span></a>
+       			<a class="nav-item" href="#grave-32"><i class="icon"></i><span>XXXII</span></a>
+				<a class="nav-item" href="#grave-33"><i class="icon"></i><span>XXXIII</span></a>
+				<a class="nav-item" href="#grave-34"><i class="icon"></i><span>XXXIV</span></a>
+				<a class="nav-item" href="#grave-35"><i class="icon"></i><span>XXXV</span></a>
+				<a class="nav-item" href="#grave-36"><i class="icon"></i><span>XXXVI</span></a>
+				<a class="nav-item" href="#grave-37"><i class="icon"></i><span>XXXVII</span></a>
+				<a class="nav-item" href="#grave-38"><i class="icon"></i><span>XXXVIII</span></a>
+				<a class="nav-item" href="#grave-39"><i class="icon"></i><span>XXXIX</span></a>
+				<a class="nav-item" href="#grave-40"><i class="icon"></i><span>XXXX</span></a>
+				<a class="nav-item" href="#grave-41"><i class="icon"></i><span>XXXXI</span></a>
+			</nav>
+		</div>
+		<p class="nosupport">Sorry, but your browser does not support WebGL!</p>
+	</div>
+	<!-- /container -->
+	<script src="js/index.js"></script>
+</body>
+
+</html>
